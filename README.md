@@ -1,7 +1,7 @@
 ## CuisineChronicles
 
 ## Description
-This application is a CMS-style blog like Word Press where users can come and post reviews on different restaurants and dishes
+This application is a CMS-style blog like Word Press where users can come and post reviews on different restaurants and dishes.
 
 ## Table of Contents
 
