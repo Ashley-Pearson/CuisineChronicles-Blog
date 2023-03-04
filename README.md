@@ -40,7 +40,7 @@ This will install the following dependencies:
 ``
 
 ## Deployed
-placeholder - link to heroku deployment
+https://cuisinechronicles-blog.herokuapp.com/
 
 ## Screenshot
 placeholder - screen shot goes here
